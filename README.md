@@ -179,6 +179,9 @@ You are a [Role] Agent. Your job is to...
 
 ---
 
+
+**Make sure to share with others!!!***
+
 ## ⭐ If this saved you time, star the repo
 
 More skills, better standards, faster builds — that's the goal.
